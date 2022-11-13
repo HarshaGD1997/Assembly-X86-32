@@ -1,0 +1,3 @@
+﻿  Assembling Main.asm...
+Main.asm(20): warning A4023: with /coff switch, leading underscore required for start address : start
+  ArrayAdd_.vcxproj -> D:\Programming\x86\ArrayAdd_\Debug\ArrayAdd_.exe
